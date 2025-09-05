@@ -20,7 +20,7 @@ Suscripción Premium Mensual
 Elimina toda la publicidad.
 Acceso completo y sin interrupciones.
 Es una suscripción auto-renovable, lo que significa que cada mes se renovará automáticamente para que no pierdas acceso.
-Puedes cancelarla en cualquier momento desde la configuración de tu cuenta en la App Store/Google Play, sin cargos adicionales.
+Puedes cancelarla en cualquier momento desde la configuración de tu cuenta en la App Store, sin cargos adicionales.
 De esta manera, tú decides cómo quieres disfrutar la app: gratis con anuncios, o con la comodidad de la versión Premium sin interrupciones.
 
 ## Publicidad
