@@ -1,45 +1,80 @@
-# Politica de Privacidad de Pediakit
+# Política de Privacidad y Términos de Uso — PediaKit
+**Última actualización:** 1 de septiembre de 2025
 
+- [Ir a Política de Privacidad](#política-de-privacidad)
+- [Ir a Términos de Uso (EULA)](#términos-de-uso-eula)
+- [Gestión de suscripciones](#gestión-de-suscripciones)
+- [Contacto](#contacto)
 
-**Última actualización: 1 de septiembre de 2025**
+---
 
-Esta aplicación ha sido desarrollada con fines didácticos y de apoyo académico para estudiantes y profesionales en formación. No recopila, almacena ni comparte ningún tipo de información personal del usuario.
+## Política de Privacidad
 
-## Recolección de datos
+PediaKit fue desarrollada con fines didácticos y de apoyo académico. **No recopilamos, almacenamos ni compartimos datos personales** de los usuarios desde nuestros propios servidores.
 
-La app **no solicita ni accede a datos personales**, ubicación, contactos, identificadores del dispositivo ni ningún otro tipo de información privada. Todas las funciones se ejecutan de forma local en el dispositivo.
+### Datos recopilados por terceros (Publicidad)
+La versión gratuita muestra anuncios mediante **Google AdMob**. Estos proveedores pueden recopilar automáticamente información no personal (por ejemplo, tipo de dispositivo, sistema operativo, identificadores de publicidad, y región aproximada) para ofrecer anuncios relevantes y medir su rendimiento.  
+Consulta sus políticas:
+- Política de privacidad de Google: https://policies.google.com/privacy
 
-## Cómo funciona la suscripción en nuestra app
+PediaKit **no solicita** acceso a contactos, ubicación precisa, fotos, micrófono ni otros permisos sensibles para su funcionamiento.
 
-Al descargar la aplicación, todos los usuarios disfrutan de 15 días completamente gratis para probar todas las funciones sin limitaciones.
-Después del periodo de prueba, tendrás dos opciones:
-Versión Gratis con Publicidad
-Puedes seguir usando la app sin pagar nada.
-A cambio, verás anuncios dentro de la aplicación.
-Suscripción Premium Mensual
-Elimina toda la publicidad.
-Acceso completo y sin interrupciones.
-Es una suscripción auto-renovable, lo que significa que cada mes se renovará automáticamente para que no pierdas acceso.
-Puedes cancelarla en cualquier momento desde la configuración de tu cuenta en la App Store, sin cargos adicionales.
-De esta manera, tú decides cómo quieres disfrutar la app: gratis con anuncios, o con la comodidad de la versión Premium sin interrupciones.
+### Seguridad
+Procesamos todos los cálculos **de forma local en tu dispositivo**. No transferimos tu información a servidores propios.
 
-## Publicidad
+### Menores de edad
+El uso es con fines educativos. Si un padre/madre/tutor cree que un menor nos proporcionó información personal, puede contactarnos para solicitar su eliminación (ver [Contacto](#contacto)).
 
-La versión gratuita de la app puede mostrar anuncios a través de plataformas de terceros como Google AdMob. Estos servicios pueden recopilar información no personal de manera automatizada (por ejemplo, tipo de dispositivo o región general) para ofrecer anuncios relevantes. Consulta la política de privacidad de Google para más detalles:  
-[https://policies.google.com/privacy](https://policies.google.com/privacy)
+---
 
-## Descargo de responsabilidad
+## Cómo funciona la suscripción
 
-Esta aplicación **no proporciona diagnósticos médicos ni sustituye el juicio clínico profesional**. La información y cálculos que ofrece deben usarse solo con fines educativos y de referencia. El uso de esta app es responsabilidad exclusiva del usuario. El desarrollador **no asume ninguna responsabilidad médica, legal o ética** derivada de su uso.
+Al descargar PediaKit, obtienes **15 días gratis** con funciones completas.
+
+Tras el periodo de prueba, elige entre:
+1. **Versión Gratis con Publicidad**
+   - Sin costo, con anuncios.
+
+2. **Suscripción Premium Mensual (auto-renovable)**
+   - Sin anuncios y experiencia completa.
+   - La suscripción se **renueva automáticamente** de forma mensual y se te cobrará a tu cuenta de App Store al confirmar la compra.
+   - El cobro de la renovación ocurre dentro de las 24 horas previas al fin del periodo en curso.
+   - Puedes **cancelar en cualquier momento**. Al cancelar, mantienes el acceso Premium hasta el fin del periodo ya pagado.
+
+> **Nota:** Si no deseas continuar tras la prueba gratuita, cancela **antes** de que finalice el periodo de prueba para evitar cargos.
+
+---
+
+## Gestión de suscripciones
+
+- **Gestionar / cancelar**: https://apps.apple.com/account/subscriptions  
+- **Restaurar compras**: Dentro de la app, en **Ajustes → Restaurar compras** (útil si reinstalas o cambias de dispositivo).
+
+---
+
+## Términos de Uso (EULA)
+
+Al usar PediaKit aceptas estos Términos y nuestra Política de Privacidad.
+
+1. **Uso educativo**: PediaKit es una herramienta de referencia y **no sustituye el juicio clínico profesional** ni constituye consejo médico.
+2. **Licencia**: Se te otorga una licencia limitada, no exclusiva, intransferible para uso personal en dispositivos vinculados a tu Apple ID.
+3. **Contenido y disponibilidad**: Podemos actualizar, modificar o discontinuar funciones sin previo aviso.
+4. **Suscripciones**: Ver sección “Cómo funciona la suscripción”. Los precios pueden variar por región y se muestran en la App Store.
+5. **Reembolsos**: Las solicitudes de reembolso se gestionan a través de Apple conforme a sus políticas.
+6. **Limitación de responsabilidad**: El desarrollador no asume responsabilidad por decisiones clínicas, legales o de cualquier tipo basadas en el uso de la app.
+7. **Cambios en los términos**: Podremos actualizar estos términos; la fecha de la última actualización aparece al inicio.
+
+**O bien**, si prefieres el acuerdo estándar de Apple, aplica el **EULA de Apple**:  
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+---
+
+## Descargo de responsabilidad médico
+
+PediaKit **no proporciona diagnósticos**. Úsala con fines educativos y de referencia. Consulta siempre a un profesional de la salud.
+
+---
 
 ## Contacto
-
-Si tienes dudas sobre esta política, puedes escribir a:  
-`procx727@gmail.com`
-
-
-
-
-
-
-
+Para dudas sobre esta política o los términos:
+**Correo:** procx727@gmail.com
