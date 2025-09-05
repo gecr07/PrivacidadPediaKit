@@ -1,6 +1,5 @@
 Politica de Privacidad de Pediakit
 
-# Política de Privacidad
 
 **Última actualización: 1 de septiembre de 2025**
 
