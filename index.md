@@ -1,8 +1,8 @@
-# Política de Privacidad y Términos de Uso — PediaKit
+# PediaKit — Política de Privacidad y Términos de Uso
 **Última actualización:** 1 de septiembre de 2025
 
-- [Ir a Política de Privacidad](#política-de-privacidad)
-- [Ir a Términos de Uso (EULA)](#términos-de-uso-eula)
+- [Política de Privacidad](#política-de-privacidad)
+- [Términos y Condiciones](#términos-y-condiciones)
 - [Gestión de suscripciones](#gestión-de-suscripciones)
 - [Contacto](#contacto)
 
@@ -10,71 +10,87 @@
 
 ## Política de Privacidad
 
-PediaKit fue desarrollada con fines didácticos y de apoyo académico. **No recopilamos, almacenamos ni compartimos datos personales** de los usuarios desde nuestros propios servidores.
+### 1) Principio General
+PediaKit **no recopila, almacena ni transmite datos personales ni clínicos** de los cálculos. Todos los resultados se generan de forma local en el dispositivo y no se envían a servidores externos.
 
-### Datos recopilados por terceros (Publicidad)
-La versión gratuita muestra anuncios mediante **Google AdMob**. Estos proveedores pueden recopilar automáticamente información no personal (por ejemplo, tipo de dispositivo, sistema operativo, identificadores de publicidad, y región aproximada) para ofrecer anuncios relevantes y medir su rendimiento.  
-Consulta sus políticas:
-- Política de privacidad de Google: https://policies.google.com/privacy
+### 2) Almacenamiento Local y en la Nube
+La app no guarda datos de los cálculos ni en la nube ni de forma persistente en el dispositivo.  
+Únicamente puede guardar **preferencias técnicas mínimas** (por ejemplo, aceptación de términos) necesarias para su funcionamiento.
 
-PediaKit **no solicita** acceso a contactos, ubicación precisa, fotos, micrófono ni otros permisos sensibles para su funcionamiento.
+### 3) Publicidad y Terceros
+La versión gratuita puede mostrar anuncios mediante servicios como **Google AdMob**. Estos proveedores, de manera independiente, pueden procesar identificadores del dispositivo para medición y publicidad.  
+Consulta su política: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-### Seguridad
-Procesamos todos los cálculos **de forma local en tu dispositivo**. No transferimos tu información a servidores propios.
+La **versión Premium** está diseñada para funcionar sin anuncios.
 
-### Menores de edad
-El uso es con fines educativos. Si un padre/madre/tutor cree que un menor nos proporcionó información personal, puede contactarnos para solicitar su eliminación (ver [Contacto](#contacto)).
+### 4) Derechos y Contacto
+Puedes escribirnos si deseas sugerir mejoras o tienes dudas sobre la política. La empresa no está obligada a implementar cambios, pero revisaremos tus comentarios.
 
----
+### 5) Menores de Edad
+PediaKit está dirigida a estudiantes y profesionales de la salud. **No está orientada a menores de edad.**
 
-## Cómo funciona la suscripción
-
-Al descargar PediaKit, obtienes **15 días gratis** con funciones completas.
-
-Tras el periodo de prueba, elige entre:
-1. **Versión Gratis con Publicidad**
-   - Sin costo, con anuncios.
-
-2. **Suscripción Premium Mensual (auto-renovable)**
-   - Sin anuncios y experiencia completa.
-   - La suscripción se **renueva automáticamente** de forma mensual y se te cobrará a tu cuenta de App Store al confirmar la compra.
-   - El cobro de la renovación ocurre dentro de las 24 horas previas al fin del periodo en curso.
-   - Puedes **cancelar en cualquier momento**. Al cancelar, mantienes el acceso Premium hasta el fin del periodo ya pagado.
-
-> **Nota:** Si no deseas continuar tras la prueba gratuita, cancela **antes** de que finalice el periodo de prueba para evitar cargos.
+### 6) Cambios a esta Política
+Podemos actualizar esta política en cualquier momento. La fecha de la última actualización siempre estará indicada al inicio de este documento.
 
 ---
 
-## Gestión de suscripciones
+## Términos y Condiciones
 
-- **Gestionar / cancelar**: https://apps.apple.com/account/subscriptions  
-- **Restaurar compras**: Dentro de la app, en **Ajustes → Restaurar compras** (útil si reinstalas o cambias de dispositivo).
+### 1) Propósito y Alcance
+PediaKit es una aplicación con fines didácticos y de apoyo académico.  
+**No sustituye la valoración, diagnóstico ni tratamiento de profesionales de la salud.**
+
+### 2) No Sustitución de Profesional
+La app **no reemplaza** la opinión de un pediatra ni de ningún profesional sanitario.  
+Ante cualquier situación clínica, consulte siempre a un especialista.
+
+### 3) Uso y Responsabilidad del Usuario
+El usuario es responsable del uso de la información y resultados.  
+El creador y el equipo de desarrollo **no asumen responsabilidad por decisiones, daños o perjuicios** derivados del uso o mal uso de la app.
+
+### 4) Carácter Informativo
+Las fórmulas y resultados se proporcionan **“tal cual”**, con fines educativos.  
+Pueden contener errores u omisiones. Verifique siempre los datos con protocolos vigentes y juicio clínico.
+
+### 5) Publicidad y Suscripción
+- **Versión Gratuita**: puede mostrar anuncios y requerir conexión a internet.  
+- **Versión Premium**: elimina anuncios y permite un uso sin interrupciones, según lo descrito en la app.
+
+### 6) Suscripciones
+- Al descargar PediaKit, disfrutas de **15 días gratis** con funciones completas.  
+- Después puedes elegir entre la versión gratuita con anuncios o la suscripción Premium mensual.  
+- La suscripción Premium es **auto-renovable** y se cobra a tu cuenta de App Store.  
+- El cobro se realiza dentro de las 24 horas previas al fin del periodo en curso.  
+- Puedes **cancelar en cualquier momento** desde tu cuenta de App Store.  
+- Al cancelar, mantendrás acceso Premium hasta el fin del periodo ya pagado.
 
 ---
 
-## Términos de Uso (EULA)
+## Gestión de Suscripciones
 
-Al usar PediaKit aceptas estos Términos y nuestra Política de Privacidad.
-
-1. **Uso educativo**: PediaKit es una herramienta de referencia y **no sustituye el juicio clínico profesional** ni constituye consejo médico.
-2. **Licencia**: Se te otorga una licencia limitada, no exclusiva, intransferible para uso personal en dispositivos vinculados a tu Apple ID.
-3. **Contenido y disponibilidad**: Podemos actualizar, modificar o discontinuar funciones sin previo aviso.
-4. **Suscripciones**: Ver sección “Cómo funciona la suscripción”. Los precios pueden variar por región y se muestran en la App Store.
-5. **Reembolsos**: Las solicitudes de reembolso se gestionan a través de Apple conforme a sus políticas.
-6. **Limitación de responsabilidad**: El desarrollador no asume responsabilidad por decisiones clínicas, legales o de cualquier tipo basadas en el uso de la app.
-7. **Cambios en los términos**: Podremos actualizar estos términos; la fecha de la última actualización aparece al inicio.
-
-**O bien**, si prefieres el acuerdo estándar de Apple, aplica el **EULA de Apple**:  
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+- **Gestionar o cancelar**: [https://apps.apple.com/account/subscriptions](https://apps.apple.com/account/subscriptions)  
+- **Restaurar compras**: disponible dentro de la app en **Ajustes → Restaurar compras**.
 
 ---
 
 ## Descargo de responsabilidad médico
 
-PediaKit **no proporciona diagnósticos**. Úsala con fines educativos y de referencia. Consulta siempre a un profesional de la salud.
+PediaKit **no proporciona diagnósticos médicos ni sustituye el juicio clínico profesional**.  
+Su uso es únicamente educativo y de referencia.
+
+---
+
+## Modificaciones
+
+Podemos actualizar estos Términos y Condiciones. Cuando cambien, se solicitará tu aceptación al abrir la app.  
 
 ---
 
 ## Contacto
-Para dudas sobre esta política o los términos:
-**Correo:** procx727@gmail.com
+Si tienes dudas sobre esta política o los términos, puedes escribir a:  
+📧 **procx727@gmail.com**
+
+---
+
+## Aceptación
+Al usar PediaKit, aceptas nuestra **Política de Privacidad** y estos **Términos y Condiciones**.
